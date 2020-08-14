@@ -1,12 +1,12 @@
 ---
 title: 【bioinfo】-Q&A-「91」
-date: 2020-02-17 14:37:36
+date: 2020-08-14 14:37:36
 tags:
 - AQ100
-- adapter
+- cryo-EM
 categories:
 - bioinfo
-- ngs
+- cryo-EM
 copyright:
 ---
 
@@ -39,6 +39,4 @@ copyright:
     
 ### background
 
-![{:height="100" width="100"} ](【bioinfo】-Q-A-「91」/1.jpeg )
-
- 
+![](【bioinfo】-Q-A-「91」/1.jpeg?100x100)
